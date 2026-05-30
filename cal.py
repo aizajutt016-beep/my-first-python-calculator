@@ -1,20 +1,3 @@
-# n = 5
-# m = 10
-# print(n+m)
-# print("the sum of", n, "and", m, "is", n+m)
-# print(n-m)
-# print("the difference of", n, "and", m, "is", n-m)
-# print(n*m)
-# print("the product of", n, "and", m, "is", n*m)
-# print(n/m)
-# print("the quotient of", n, "and", m, "is", n/m)
-# print(n//m)
-# print("the floor division of", n, "and", m, "is", n//m)
-# print(n%m)
-# print("the modulus of", n, "and", m, "is", n%m)
-# print(n**m)
-# print("the exponentiation of", n, "and", m, "is", n**m)
-
 
 import tkinter as tk
 from tkinter import ttk
